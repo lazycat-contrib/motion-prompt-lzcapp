@@ -14,9 +14,7 @@ update:
     type: git
 
 build:
-  toolchains:
-    - kind: node
-      version: 22
+  toolchains: []
   run_buildscript: true
 
 images: []
