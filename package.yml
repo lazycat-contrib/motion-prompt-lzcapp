@@ -1,7 +1,7 @@
 package: community.lazycat.app.motion-prompt
 version: 1.0.1
-name: Motion Prompt 名称库
-description: AI 创作提示词名称库，120 个动效、运镜、UI、落地页与摄影风格词条带示例
+name: Motion Prompt
+description: A library of names for the things you ask an AI to make
 min_os_version: 1.5.0
 homepage: https://github.com/showheyohtaki/motion-prompt
 author: showheyohtaki
